@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+
+# Virtual envs
+venv/
+env/
+.financeenv/
+.venv/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Data files
+data/*.csv
+data/*.zip
+
+# Model files
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.sav
+
+# Environment files
+.env
+.env.*
+
+# LFS pointer files if you decide later
+*.lfs
+
+# Spyder
+.spyderproject
+.spyderworkspace
+
+# PyCharm
+.idea/
