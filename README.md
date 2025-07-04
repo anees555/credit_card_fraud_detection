@@ -1,6 +1,6 @@
 ##  Conclusion & Insights
 
-In this project, we explored the challenging task of detecting fraudulent credit card transactions using machine learning. Due to the highly imbalanced nature of the data (with fraud accounting for less than 0.2% of transactions), traditional classifiers performed poorly without addressing class imbalance.
+In this project, I have  explored the task of detecting fraudulent credit card transactions using machine learning. Due to the highly imbalanced nature of the data (with fraud accounting for less than 0.2% of transactions), traditional classifiers performed poorly without addressing class imbalance.
 
 To solve this, we employed **ADASYN**, an oversampling technique that adaptively generates synthetic samples for the minority class. This allowed us to train models on a more balanced dataset and dramatically improved detection rates.
 
